@@ -1,6 +1,8 @@
 ---
 title: Insert title here
 key: 9b6b957dfcd31af196122ceadaaf85f2
+video_link:
+  mp3: https://gitlab.com/MElHussieni/k_dc/blob/master/Audio_recording_2018-10-24_09-57-36__online-audio-converter.com_.mp3
 
 ---
 ## Your First Neural Networks
