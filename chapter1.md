@@ -58,3 +58,16 @@ The instructions that follow should be in bullet point form with clear guidance 
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 949a110ef9
+xp: 50
+```
+
+`@projector_key`
+9b6b957dfcd31af196122ceadaaf85f2
